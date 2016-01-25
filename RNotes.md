@@ -17,6 +17,24 @@ Ctrl + Enter = Runs program...standard stuff
 **R** - is a vectorized language 
 	take a vector and return a vector
 	
+#### Easy to install packages
+	
+	install.packages("ggplot2")
+
+**Use Package**
+
+	library(Name of library)
+
+**Command Help**
+
+	?Command ie ?nrow
+
+#### Transforming and Cleaning Data
+
+---
+
+
+
 ---
 
 ---
