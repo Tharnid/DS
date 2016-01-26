@@ -81,4 +81,14 @@ Ctrl + Enter = Runs program...standard stuff
 2. No missing values
 3. Properly encoded
 
+**sapply**
+
+	allows to apply function to each element in a collection of values
+
+#### Exporting Data
+---
+
+**Save data to CSV**
+
+	write.csv(name of collection, "Name".csv
 ---
