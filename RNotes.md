@@ -3,6 +3,20 @@ R Programming Notes
 
 <- || Assignment operator
 
+Language for statistical Computing
+
+Open-source implementation of S
+
+Command line interface
+
+Reproducibility through R scripts
+
+R Packages
+
+Vibrant community
+
+
+
 ### RStudio Commands
 ---
 
