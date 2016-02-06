@@ -15,6 +15,7 @@ R Packages
 
 Vibrant community
 
+tapply(variable1, variable2, mean)
 
 
 ### RStudio Commands
