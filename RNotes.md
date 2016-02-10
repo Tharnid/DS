@@ -106,4 +106,76 @@ Ctrl + Enter = Runs program...standard stuff
 **Save data to CSV**
 
 	write.csv(name of collection, "Name".csv
+
+## Data Visualization
+---
+
+**Number of Variables**
+
+- Univariate
+- Bivariate
+
+**Types of Variables**
+
+- Qualitative
+- Quantitative
+
+### Qualitative Univariate Analysis (single categorical variable)
+---
+
+- **Bar Chart** Count
+- **Pie Chart** Parts of the whole
+
+### Quantitative Univariate Analysis(Visual analysis of a single variable)
+---
+
+- Location
+- Spread
+- Shape
+
+**Normal Distribution**
+
+- **Dot Plot** (see how data distributed along dimension of variable
+- **Box Plot** (quickly inspect the location and spread of our data)
+- **Histrogram** (shows an approximation of the shape of the distribution of values by grouping them into equal width partitions called bins) 
+	- height of the bar number of observations
+	- width of bins are all equal
+- **Density Plot** (shows us a step wise approximation of the shape of the distribution using bins)
+
+**We will just be looking at shape...not probability density function**
+**Potential Outliers**
+
+-fall outside of minimum and maximum values entailed in a distribution of values
+
+##Qualitative Bivariate Analysis
+---
+(Visual analysis of two categorical variables)
+
+- **Spine Plot** - series of stacked bar graphs whose size corresponds to the number of observations at the intersection of each category)
+	- width of bars represents proportions of observations in each of the categories on x axis
+	- length represents proportions of observations on the Y axis
+	- color corresponds to the category on the Y axis
+
+- **Mosaic Plot** - Same as above 
+	- black dashes represent no data
+## Quantitative Bivariate Analysis
+---
+(Visual analysis of two numerical variables)
+
+- **Scatter Plot** (allows us to quickly see patterns in our data)
+-  **Line Graph** (best for unit of time)
+	-  Lines connection points illustrate change for two points
+	-  each value you on the X axis should one and only one point on the y axis
+
+## Qualitative and Quantitative Bivariate Analysis
+---
+
+**Two Most common**
+
+- **Bar Chart**
+- **Multiple Box Plots**
+
+## Guidance on Visualizing Data
+---
+
 ---
