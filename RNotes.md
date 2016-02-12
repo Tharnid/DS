@@ -178,4 +178,14 @@ Ctrl + Enter = Runs program...standard stuff
 ## Guidance on Visualizing Data
 ---
 
+1. Know Your Audience
+	1. Size of Audience
+	2. their familiarity with the topic
+	3. based on potential impact
+2. Start With a question we are attempting to answer
+3. Use the right tool for the job
+4. Avoid Information Distortions
+
+**Keep in mind that most data visualizations experts discourage the use of pie charts for visual comparison.  The human brain isn't as good at comparing angles as it is to comparing the heights or lengths of bars** 
+
 ---
